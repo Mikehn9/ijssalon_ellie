@@ -11,6 +11,7 @@ def print_aanbieding():
 
     reclame_tekst = f"Vandaag in de aanbieding: aardbei-ijs, 1 liter – slechts € {aanbieding}"
 
+
     reclame_tekst2 = reclame_tekst[:63]
 
     reclame_tekst3 = reclame_tekst2.upper()
